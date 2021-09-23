@@ -1,1 +1,1 @@
-# otus_qa
+# otus.ru - Python QA Engineer
